@@ -10,5 +10,11 @@
         "src": "/(.*)",
         "dest": "index.js"
       }
-    ]
+    ],
+    "env": {
+      "FLOWISE_USERNAME": "@flowise_username",
+      "FLOWISE_PASSWORD": "@flowise_password",
+      "PORT": "3000",
+      "FLOWISE_FILE_PATH": "/tmp"
+    }
   }

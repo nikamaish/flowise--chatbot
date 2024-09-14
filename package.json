@@ -6,6 +6,6 @@
       "start": "flowise start"
     },
     "dependencies": {
-      "flowise": "latest"
+      "flowise": "1.5.0"
     }
   }
